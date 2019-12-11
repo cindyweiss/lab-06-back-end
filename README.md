@@ -1,4 +1,14 @@
 # lab-06-back-end
+Number and name of feature: _______setting up repo_________________________
+
+Estimate of time needed to complete: 1 hour_____
+
+Start time: ___8:15__
+
+Finish time: 9:20_____
+
+Actual time needed to complete: _1.05 hours____
+
 
 
 **Author**: Cindy Weiss
